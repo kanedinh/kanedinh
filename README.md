@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE 👋👋👋
-My name is Khang Dinh (English name is Kane Dinh). I am currently a 3rd year student at the Univerity of Science - Vietnam National University HCMC.
+My name is Khang Dinh (English name is Kane Dinh). I am currently a 3rd year student at the University of Science - Vietnam National University HCMC.
 <!--
 **kanedinh/kanedinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
